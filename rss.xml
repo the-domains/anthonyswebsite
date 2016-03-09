@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[anthonyswebsite]]></title>
         <description><![CDATA[anthonyswebsite]]></description>
-        <link>https://thegrid.ai/anthonyswebsite/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:21:45 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/anthonyswebsite/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Anthony - The Dynamic Man]]></title>
-            <description><![CDATA[<article><h1>Anthony - The Dynamic Man</h1><p>The Helper; The Innovator, The Developer, The Coach, The PathFinder, The Medium, The Healer, The Carer, The Creator, The Teacher & A Very Good Listener.</p></article>]]></description>
-            <link>https://thegrid.ai/anthonyswebsite/anthony-the-dynamic-man/index.html</link>
-            <guid isPermaLink="false">b63de60a-e027-441b-8d0d-1f0b37b785f2</guid>
-            <pubDate>Wed, 09 Mar 2016 02:20:40 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 09 Mar 2016 02:21:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HELLO!!!]]></title>
             <description><![CDATA[<article><h1>HELLO!!!</h1><p>A Thousand Warm Blessings and Greetings to you All!!</p></article>]]></description>
-            <link>https://thegrid.ai/anthonyswebsite/hello/index.html</link>
+            <link>undefinedhello/index.html</link>
             <guid isPermaLink="false">1174916c-d865-44ca-b528-167a975e59b2</guid>
             <pubDate>Wed, 09 Mar 2016 02:20:40 GMT</pubDate>
         </item>
