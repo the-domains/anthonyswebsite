@@ -2,6 +2,7 @@ name: anthonyswebsite
 favicon: null
 layout_spectrum: 0.4601784339174628
 typography_spectrum: 0.8976374445483088
+title: DynamicMan
 cta:
   domain: null
   bucket: null
